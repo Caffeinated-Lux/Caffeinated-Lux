@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Luka! 👋
 
-<!--
-**Caffeinated-Lux/Caffeinated-Lux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a beginner coder currently exploring Python.
+Love writing Discord bots and tools, that play around with data.  <br /><br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛰️ Current Project: Sir eDom of Crash-A-Lot - My first public Discord Bot!  
+
+  * What it does: Simplifies life (QOL tool) for MMO players by pulling data from APIs.
+
+🌱 Learning: Python fundamentals & proper GitHub workflow.
+
+🛠️ Tech: Python, RestAPI, Discord.py, R, PyCharm, Notepad++.
+
+🎓 Academic: Currently working through my Research Practicum Seminar.
+
+⚡ Fun Fact: 50% of my coding time is spent choosing between tea and coffee.
+
+
