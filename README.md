@@ -4,7 +4,7 @@ I am a beginner coder currently exploring Python.
 Love writing Discord bots and tools, that play around with data.  <br /><br />
 
 
-🛰️ Current Project: Sir eDom of Crash-A-Lot - My first public Discord Bot!  
+🛰️ Current Project: Sir eDom of Crash-A-Lot - My first public GitHub project!  
 
   * What it does: Simplifies life (QOL tool) for MMO players by pulling data from APIs.
 
