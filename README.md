@@ -12,7 +12,7 @@ Love writing Discord bots and tools, that play around with data.  <br /><br />
 
 🛠️ Tech: Python, RestAPI, Discord.py, R, PyCharm, Notepad++.
 
-🎓 Academic: Currently working through my Research Practicum Seminar.
+🎓 Academic: Currently working through my Research Practicum Seminar on how Natural Language Processing tools compare to eachother for different use-cases.
 
 ⚡ Fun Fact: 50% of my coding time is spent choosing between tea and coffee.
 
